@@ -476,3 +476,7 @@ input {
 .show-menu {
   left: 0;
 }
+
+.dark-theme {
+  color: #ddd;
+}
