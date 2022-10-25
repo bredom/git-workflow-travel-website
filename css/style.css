@@ -472,3 +472,7 @@ input {
 .video__button {
   margin-left: auto;
 }
+
+.show-menu {
+  left: 0;
+}
